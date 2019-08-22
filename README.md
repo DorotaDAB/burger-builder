@@ -6,11 +6,11 @@ This is a web application project allowing user to build a burger: dynamically a
 
 ## Features implemented so far ##
 * Initial project setup 
-* Components: burger and burger ingredients (hard-coded)
+* Components: burger and burger ingredients
+* Build Controls
 
 ## Features planned ##
-* Outputting burger ingredients dynamically
-* Calculating the ingredient sum dynamically
+* User-choice of ingredients and price calculation
 * Responsive adjustments to application
 * Communication with a server
 * ...
